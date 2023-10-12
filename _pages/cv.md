@@ -16,4 +16,4 @@ Education
 
 Detailed CV
 ======
-My pdf Cv can be found in [CV](../CV_P_Jiang.pdf)
+For a detailed overview of my qualifications and experiences, you can access my full CV [here](../CV_P_Jiang.pdf).
