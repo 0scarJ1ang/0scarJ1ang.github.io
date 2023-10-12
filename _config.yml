@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Puming Jiang/ Personal Homepage"
+title                    : "Puming Jiang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "oscar"
 description              : &description "personal description"
