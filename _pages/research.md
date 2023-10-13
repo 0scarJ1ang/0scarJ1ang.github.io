@@ -17,7 +17,12 @@ My research, under the guidance of Nicole Salomons, revolves around a compelling
 
 Develop a Novel AAC Text Generation System Powered by Image Recognition and LLM
 ======
-123
+Communication remains a fundamental challenge for individuals with motor disabilities. Historically, they've had to rely on traditional augmentative and alternative communication (AAC) systems, which come with inherent limitations: symbol-based AAC confines users to a restricted vocabulary, and text-entry methods are painstakingly slow, hampering fluid conversations.
+
+Recognizing these challenges, we developed ImageTalk. Our approach diverges from the norm by seamlessly integrating image recognition models with state-of-the-art large language models (LLMs). The premise is straightforward yet transformative: by interpreting information from user-selected images combined with minimal text inputs, ImageTalk can rapidly generate nuanced stories that reflect a user's intent and context.
+
+The ImageTalk system has a keystroke savings of 94.4%, much higher than traditional text-entry methods. This efficiency translates to faster, richer, and more meaningful interactions for AAC users. Our research offers insights and design guidelines to further optimize this human-AI collaboration, driving our mission to make communication limitations a relic of the past.
+
 
 
 More research projects can be found in my [CV](../CV_P_Jiang.pdf), but they are less HCI related.
