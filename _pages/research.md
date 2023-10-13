@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Research Project 1
+Integrate Multimodal Input to Offer Tailored Feedback In Robotic Tutoring
 ======
 123
 
-Research Project 2
+Develop a Novel AAC Text Generation System Powered by Image Recognition and LLM
 ======
 123
+
+
+More research projects can be found in my [CV](../CV_P_Jiang.pdf), but they are less HCI related.
+======
