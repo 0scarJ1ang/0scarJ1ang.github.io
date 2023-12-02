@@ -11,9 +11,9 @@ redirect_from:
 
 Integrate Multimodal Input to Offer Tailored Feedback In Robotic Tutoring
 ======
-Robotic tutoring systems, as they stand today, exhibit a narrowed spectrum of interaction modalities. Predominantly, they deploy computer vision techniques to oversee student tasks or lean heavily on touch-based interfaces like buttons and touchscreens for direct interactions. Such restricted avenues can sometimes impede the robot's ability to fully discern a student's understanding, consequently affecting the quality of feedback dispensed.
+Current robotic tutoring systems mainly use computer vision to monitor student activities or rely on touch-based interfaces such as buttons and touchscreens for interaction. This limited range of interaction can hinder the robot's ability to fully understand a student's learning progress, which may affect the effectiveness of the feedback provided.
 
-My research, under the guidance of Nicole Salomons, revolves around a compelling proposition: the incorporation of verbal inputs into robotic feedback systems. Through an integraton of visual and verbal data inputs—capturing both the tactile engagements and the vocal expressions of students—we seek to develop a more nuanced model of student understanding. This dual-faceted approach harnesses the power of the LLM model to interpret verbal inputs, thereby enabling robots to provide feedback that is both timely and apt, enriching the overall learning experience.
+In my research, guided by Nicole Salomons, we are exploring an exciting idea: adding verbal input to robotic feedback systems. By combining visual and verbal data—observing students' physical interactions and listening to their verbal responses—we aim to create a more comprehensive understanding of student learning. This approach utilizes the LLM model to process verbal inputs, allowing robots to offer more relevant and timely feedback, thus enhancing the learning experience.
 
 Develop a Novel AAC Text Generation System Powered by Image Recognition and LLM
 ======
